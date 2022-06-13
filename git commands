@@ -10,7 +10,7 @@
 
  git remote add origin "https://github.com/Umeshkmaurya197/Hello-Project.git"    // create connection with remote repository    
 
- touch hello.txt 	                                                 //create only empty file
+ touch hello.txt 	                                                //create only empty file
  
  nano hello.txt                                                    //create and open file 
  
