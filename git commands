@@ -1,4 +1,4 @@
- git init        												                           //initalize git  
+ git init        												                                      //initalize git  
  
  git config --global user.name "Umeshkmaurya197"                   //configure user name only one time for one laptop
  
@@ -20,7 +20,7 @@
  
  git add .                                                         //make all the file ready for commit
  
- git status			                                                   //show git status
+ git status			                                                     //show git status
 
  git commit -m "Added: hello world Message"                        //commit file   
 
