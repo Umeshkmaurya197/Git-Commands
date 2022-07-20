@@ -23,7 +23,7 @@
 
  git push -u origin master                                         // will ask for token  pass the below token for first time 
 
- tokan for git push : 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     // after use this token file will pushed to remote repository
+ tokan for git push :                                              // after use this token file will pushed to remote repository
  
  git checkout -b additionbranch                                    //create branch and open branch 
  
